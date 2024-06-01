@@ -1,0 +1,3 @@
+#Ignoring myclass.h and all .txt files
+myclass.h
+*.txt
